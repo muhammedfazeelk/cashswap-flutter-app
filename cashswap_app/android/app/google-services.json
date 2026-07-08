@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855340148094",
+    "project_id": "cashswap-3fbdc",
+    "storage_bucket": "cashswap-3fbdc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855340148094:android:572a1a04778f1ec342bf2f",
+        "android_client_info": {
+          "package_name": "com.example.cashswap_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjew_uDh7dmYgrKaQXfxl1WWjK3-clPN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
